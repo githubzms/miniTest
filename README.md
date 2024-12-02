@@ -22,7 +22,7 @@
 
 #### sol代码部分
 ``` javascript
-`// SPDX-License-Identifier: GPL-3.0
+// SPDX-License-Identifier: GPL-3.0
 pragma solidity ^0.8.0;
 contract DynamicContract {
      // 定义一个变量
