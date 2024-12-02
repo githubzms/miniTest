@@ -7,6 +7,10 @@
 #### 谷歌浏览器 安装Metamask钱包 密码是:12345678
 
 #### 私钥 
+- 自己的私钥
+
+#### ethers文档 版本是5.7.2的 所以得看5.7的文档
+[link](https://docs.ethers.org/v5/getting-started/#getting-started--contracts)
 
 #### 方法解释
  - getConnect 连接钱包
