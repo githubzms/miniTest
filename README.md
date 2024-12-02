@@ -18,7 +18,8 @@
 - EVM 版本 部署的时候要选择兼容版本  这两个可以 
 - .evm 版本: cancu 一直部署不上去
 - 可以试试 berlin / istabul
-    
+#### 成功截图
+![Alt text](image.png)
 
 #### sol代码部分
 ``` javascript
